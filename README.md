@@ -1,8 +1,6 @@
 # RealEstatePricePredictor
 A model for predicting real estate prices
 
-The goal of the project is to demonstrate skills in data processing and writing of a correct, understandable code.
-
 The following operations were performed:
 * [x] Create a Jupyter notebook file to carry out all the further actions.
 * [x] Open train.csv file as pandas Dataframe.
